@@ -3,6 +3,6 @@
   "description": "Toggle between pop light and dark themes",
   "uuid": "popthemetoggle@kylecorry31.github.io",
   "original-author": "kylecorry31@gmail.com",
-  "shell-version": ["3.18", "3.20", "3.22", "3.24", "3.26", "3.28", "3.30"],
+  "shell-version": ["3.18", "3.20", "3.22", "3.24", "3.26", "3.28", "3.30", "40", "41" ],
   "url": "https://github.com/kylecorry31/gnome-shell-extension-do-pop-theme-toggle"
 }
